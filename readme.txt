@@ -8,4 +8,4 @@ phonegap plugin add phonegap-plugin-barcodescanner
 utilizar
 cordova plugin add phonegap-plugin-barcodescanner
 
-solo de esa manera dara y fincionara correctamente
+solo de esa manera dara y funcionara correctamente
