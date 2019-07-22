@@ -1,3 +1,5 @@
+Por si quieren agregar esta funcion a otra aplicacion de cordova que estan creando, hacer lo siguiente:
+
 para que funcione el QR y salga bien, utilizar el pluging de phonegab y no el de cordova ej:
 
 https://github.com/phonegap/phonegap-plugin-barcodescanner
